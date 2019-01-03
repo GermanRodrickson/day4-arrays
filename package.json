@@ -1,0 +1,24 @@
+{
+  "name": "day4-arrays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GermanRodrickson/day4-arrays.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GermanRodrickson/day4-arrays/issues"
+  },
+  "homepage": "https://github.com/GermanRodrickson/day4-arrays#readme"
+}
