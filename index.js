@@ -63,6 +63,8 @@ console.table(yearsLived);
 // https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris
 // 7. sort Exercise
 // Sort the people alphabetically by last name
+const ordered = inventors.sort((a, b) => (a.last > b.last ? 1 : -1));
+console.table( ordered);
 // 8. Reduce Exercise
 // Sum up the instances of each of these
 const data = ['car', 'car', 'truck', 'truck', 'bike', 'walk', 'car', 'van', 'bike', 'walk', 'car', 'van', 'car', 'truck'];
